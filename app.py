@@ -1,9 +1,8 @@
 import azure.cognitiveservices.speech as speechsdk
 import streamlit as st
 
-# Set up Azure Speech Service credentials
-speech_key = "your_speech_service_key"
-service_region = "your_service_region"
+speech_key = st.secrets["speech_service"]["key"]
+service_region = st.secrets["speech_service"]["region"]
 
 def speech_recognize_once_from_mic():
     # Set up the speech config and audio config
