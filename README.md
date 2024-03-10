@@ -7,7 +7,7 @@ Let's get started. 
 Before we begin, make sure you have the following:
 - An active Azure account. If you don't have one, you can sign up for a free account here.
 - You have an IDE and Python installed on your machine.
-- You need to install Streamlit. If not, you can install it using pip: pip install streamlit.
+- You need to install Streamlit. If not, you can install it using pip: ```pip install streamlit```.
 
 # Step 1: Create an Azure AI Service
 The first step is to create an Azure AI service that you wish to integrate with your Streamlit app. There are a variety of AI services, including Azure AI Search, Computer Vision, Face API, Speech service, and Language services among others. 
