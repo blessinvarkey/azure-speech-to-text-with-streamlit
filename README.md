@@ -37,7 +37,7 @@ export SPEECH_REGION=your-region
 ```
 pip install azure-cognitiveservices-speech
 ```
-Create a file named [app.py](https://github.com/blessinvarkey/azure-speech-to-text-with-streamlit/blob/main/app.py)
+Create a file named _app.py_. You can get the code from [here](https://github.com/blessinvarkey/azure-speech-to-text-with-streamlit/blob/main/app.py)
 
 # Step 3: Run Your Streamlit App
 Run your Streamlit app by running the following line of code on the command line:
