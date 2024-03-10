@@ -50,4 +50,4 @@ Your Streamlit app should now be running locally.
 ![speech to text demo](https://raw.githubusercontent.com/blessinvarkey/azure-speech-to-text-with-streamlit/main/speech%20to%20text%20demo.png)
 
 # Host your Streamlit app
-You can host your streamlit app on [streamlit.io (community cloud)](https://azure-speech-to-text-with-app-5ybzm4yos9pyybsf5xmfje.streamlit.app) or on [HuggingFace](http://huggingface.co). If you are interested, check [this article](https://medium.com/@contact.blessin/deploying-azure-ai-services-using-streamlit-speech-to-text-295641c5de10)https://medium.com/@contact.blessin/deploying-azure-ai-services-using-streamlit-speech-to-text-295641c5de10 to see how to go about the same.
+You can host your streamlit app on [streamlit.io (community cloud)](https://azure-speech-to-text-with-app-5ybzm4yos9pyybsf5xmfje.streamlit.app) or on [HuggingFace](http://huggingface.co). If you are interested, check [this article](https://medium.com/@contact.blessin/deploying-azure-ai-services-using-streamlit-speech-to-text-295641c5de10) to see how to go about the same.
