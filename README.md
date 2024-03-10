@@ -22,7 +22,7 @@ In the Azure Portal, navigate to your AI service resource.
 - Copy the key(s) and endpoint URL. You'll use these in your Streamlit app to authenticate and send requests to the Azure AI service.
 
 # Step 2: Azure AI with Streamlit
-Now that you have your Azure AI service ready and have the necessary keys and endpoint, set up the environment. You can refer to the documentation [here](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text?tabs=linux%2Cterminal&pivots=programming-language-python) for the quickstart code.  
+Now that you have your Azure AI service ready and have the necessary keys and endpoint, set up the environment. You can refer to the documentation [here](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text?tabs=linux%2Cterminal&pivots=programming-language-python).  
 ## For Windows:
 ```
 setx SPEECH_KEY your-key
